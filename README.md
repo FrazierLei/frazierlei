@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-教练，我想学 `C++`
+教练，我想学 ~~`C++`~~ `Golang`
 
 ![](https://z3.ax1x.com/2021/09/02/hsf56A.jpg)
